@@ -1,0 +1,6 @@
+Module contents
+=================
+.. automodule:: leiauteCCe
+    :members:
+    :undoc-members:
+    :show-inheritance:
